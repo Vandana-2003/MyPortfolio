@@ -8,8 +8,8 @@ h1 {
 
 section {
     max-width: 75rem;
-    background-color:rgb(238, 235, 235);
-    color:rgb(6, 6, 129);
+    background-color:rgb(6, 6,129);
+    color:rgb(238,235, 235);
 }
 
 section.about-section {

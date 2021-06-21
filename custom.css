@@ -13,7 +13,7 @@ section {
 }
 
 section.about-section {
-    
+    background-image:url('imgdd.jpg');
     background-attachment: fixed;
     background-size: cover;
 

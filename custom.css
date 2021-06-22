@@ -20,7 +20,7 @@ section.about-section {
 }
 
 section.skill-section {
-    
+     background-color:rgb(31,2,24);
     background-image: linear-gradient(50deg, #121213 0%, #784BA0 50%, #2886C5 100%);
     transform: skewY(-5deg);
 }

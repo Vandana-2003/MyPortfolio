@@ -9,7 +9,7 @@ h1 {
 section {
     max-width: 75rem;
     background-color:#AB50AF;
-    color:#54AF50:
+    color:#20682D:
 }
 
 section.about-section {
@@ -69,7 +69,7 @@ hr:not([size]) {
 }
 
 .portfolio-content {
-    color:#E31C5E
+    
 }
 
 .skill-column {

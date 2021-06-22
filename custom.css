@@ -9,13 +9,14 @@ h1 {
 section {
     max-width: 75rem;
     background-color:#AB50AF;
-    color:white;
+    color:black;
 }
 
 section.about-section {
     background-image:url('image35.jpg');
     background-attachment: fixed;
     background-size: cover;
+    coolor:white;
 
 }
 
